@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My own public repositories have been migrated to my [Codeberg profile](https://codeberg.org/IceFreez3r). This accounts is only used to contribute to other FOSS projects through issues and PRs, but not for my own stuff. See you there!
+
 # Stats
 ![](https://komarev.com/ghpvc/?username=IceFreez3r)
 
